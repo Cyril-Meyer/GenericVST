@@ -1,0 +1,5 @@
+[submodule "iPlug2"]
+	path = iPlug2
+	url = git@github.com:iPlug2/iPlug2.gita
+	ignore = dirty
+
