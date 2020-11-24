@@ -5,7 +5,7 @@ void __stdcall GenericVSTProcessBlock(double** inputs, double** outputs, int nFr
 {
     if (nParams == 1)
     {
-        const double gain = params[0];
+        const double gain = params[0] / 100.0;
 
         for (int s = 0; s < nFrames; s++) {
             for (int c = 0; c < nChans; c++) {
