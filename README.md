@@ -14,5 +14,6 @@ GenericVST is the name of the VST plugin, and of the project as a whole. Here is
 * [PluginTest](https://github.com/Cyril-Meyer/GenericVST/tree/main/PluginTest)
   * A plugin test environment, easier for debugging than GenericVST.
 * [PluginVolumeControl](https://github.com/Cyril-Meyer/GenericVST/tree/main/PluginVolumeControl)
-  * An example plugin for GenericVST, copy of the [IPlugEffect](https://github.com/iPlug2/iPlug2/tree/master/Examples/IPlugEffect) example.
-  
+  * An example plugin for GenericVST, copy of the [IPlugEffect](https://github.com/iPlug2/iPlug2/tree/master/Examples/IPlugEffect) example, using one parameter.
+* [PluginCompressorLimiter](https://github.com/Cyril-Meyer/GenericVST/tree/main/PluginCompressorLimiter)
+  * An example plugin for GenericVST, copy of the [IPlugEffect](https://github.com/iPlug2/iPlug2/tree/master/Examples/IPlugEffect) example, using two parameters.
