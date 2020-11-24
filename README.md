@@ -7,7 +7,7 @@ To create a new audio processing effect, you only have to compile new plugin as 
 
 
 ### Projects
-GenericVST is the name of the VST plugin, and of the name of the project as a whole. Here is a list of all the GenericVST related projects.
+GenericVST is the name of the VST plugin, and of the project as a whole. Here is a list of all the GenericVST related projects.
 * [GenericVST](https://github.com/Cyril-Meyer/GenericVST/tree/main/GenericVST)
   * The VST plugin, to be used with your DAW.
   * Based on [iPlug2](https://github.com/iPlug2/iPlug2) framework.
